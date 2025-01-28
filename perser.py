@@ -43,7 +43,7 @@ BYTE_ID3 = 65
 BYTE_ID4 = 65
 DLC_STD = 8
 
-arduino = serial.Serial(port='COM14',   baudrate=230400, timeout=3)
+arduino = serial.Serial(port='COM7',   baudrate=230400, timeout=3)
 
 
 
